@@ -1,0 +1,14 @@
+# Define dataset root directory
+path: 
+
+# Dataset splits
+train: images/train
+val: images/val
+test: images/test  # Optional
+    
+# Number of object classes
+nc: 1
+    
+# Class names
+names: ["solar_panel"]
+    
